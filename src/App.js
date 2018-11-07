@@ -18,7 +18,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer">
             Learn React
-            <p> <a href="https://www.youtube.com/watch?v=ZmN1rPVPyF8"> Eg vil hørra på julesonga no</p>
+             <a href="https://www.youtube.com/watch?v=ZmN1rPVPyF8"> Eg vil hørra på julesonga no </a>
             <I made some changes>
           </a>
         </header>

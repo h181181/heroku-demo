@@ -19,6 +19,7 @@ class App extends Component {
             rel="noopener noreferrer">
             Learn React
             <p>Eg vil hørra på julesonga no</p>
+            <I made some changes>
           </a>
         </header>
       </div>
